@@ -84,7 +84,7 @@ JSON 요청을 실시간 가로채고 응답 Body를 저장
 광역시도 단위의 병원 수를 활용하여 Choropleth(단계구분도) 를 제작하였다.
 
 
-![](hospital map.png)
+!(hospital map.png)
 
 
 경기도, 서울특별시 → 병원 수가 가장 많아 짙은 색으로 표시됨
