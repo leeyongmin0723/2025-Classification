@@ -270,6 +270,8 @@ Stratified Split 적용(라벨 비율 유지).
 
 ![](Confusion matrix.png)
 
+--- 
+
 Confusion Matrix 해석:
 
 - '친절도', '진료 및 설명', '기타 긍정' 분류 성능 우수  
