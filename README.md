@@ -268,7 +268,7 @@ Stratified Split 적용(라벨 비율 유지).
 
 ###  8.3 Confusion Matrix
 
-![]([Confusion matrix.png](https://github.com/leeyongmin0723/2025-Classification/blob/main/Confusion%20matrix.png?raw=true))
+![](<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/38ac33ef-d9fc-42d1-97f2-4c7e1375e98b" />)
 
 Confusion Matrix 해석:
 
