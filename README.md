@@ -83,7 +83,7 @@ JSON 요청을 실시간 가로채고 응답 Body를 저장
 카카오맵에서 수집된 1,300개 병원이 실제로 전국에 어떻게 분포되어 있는지 확인하기 위해
 광역시도 단위의 병원 수를 활용하여 Choropleth(단계구분도) 를 제작하였다.
 
-![label_distribution](label_dist.png)
+![label_istribution](hospital map.png)
 
 경기도, 서울특별시 → 병원 수가 가장 많아 짙은 색으로 표시됨
 
